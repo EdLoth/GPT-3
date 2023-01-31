@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Based on screen prototyping done in [Figma](https://github.com/facebook/create-react-app).
+Based on screen prototyping done in [Figma](https://www.figma.com/file/SyMzRRZsYk89xC7wKkqCIN/gpt3?node-id=0%3A1&t=HFe2TqU9RRIEqys8-1).
 
 ## Available Scripts
 
